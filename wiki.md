@@ -1,28 +1,26 @@
 # Topic Title
-![](url for an image about your topic)
+![](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+ My topic is the **Seattle Seahawks** and I chose them because they are my favorite *NFL team*.
 
 
 ## Section 1
-One or several paragraphs.
+The Seattle Seahawks play in the NFC West division of football.
 
 ## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+The NFC is split into four divisions.
+### Teams in the NFC West
+Arizona Cardinals, L.A. Rams, Seattle Seahawks, San Francisco 49ers
 
 ## Section 3
-One or several paragraphs for subsection 3.
+All the teams in the NFC west are known as division rivals.
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- [Resource 1](https://www.seahawks.com/)
+- [Resource 2](https://www.nfl.com/)
+- [Resource 3](https://www.espn.com/)
 
 ## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+1. NFL
+2. Seahawks
+3. ESPN
