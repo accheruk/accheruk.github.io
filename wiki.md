@@ -1,4 +1,4 @@
-# Topic Title
+# Seahawks
 ![](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png)
 
  My topic is the **Seattle Seahawks** and I chose them because they are my favorite *NFL team*.
