@@ -8,12 +8,13 @@ http://www.linkedin.com/in/abhinav-cherukuri/
 
 # Summary
 
-I am a detail-oriented programmer with a passion for developing algorithms and finding the meaning
+> I am a detail-oriented programmer with a passion for developing algorithms and finding the meaning
 behind numbers.
 
 # Education
 
 ## University of Washington (Seattle, Washington)
+![Alt text](https://storage.googleapis.com/collegetuitioncompare/images/webp/colleges/236948-university-of-washington-seattle-campus.webp)
 
 *Bachelor of Arts in GIS with Data Science* (September 2018 - March 2023)
 
